@@ -57,7 +57,7 @@ This is a SwiftUI-based iOS application that fetches and displays a list of prod
 
 1. Clone the repository:
 
-    git clone https://github.com/your-repo/ProductsApp.git
+    git clone https://github.com/sarahsaber30/ProductsApp.git
     cd ProductsApp
 
 
